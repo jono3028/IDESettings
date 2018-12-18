@@ -1,0 +1,34 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line-thin",
+    "editor.dragAndDrop": true,
+    "editor.emptySelectionClipboard": true,
+    "editor.fontSize": 12,
+    "editor.renderIndentGuides": true,
+    "editor.tabSize": 2,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "files.associations": {
+        //extension name : html
+        "*.cshtml": "html"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.projectDetection.autoReload": true,
+    "window.zoomLevel": 0,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "workbench.colorTheme": "Monokai",
+    "editor.rulers": [
+        140
+    ],
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.preferences.quoteStyle": "double",
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.filePath": "on",
+    "breadcrumbs.symbolPath": "last",
+    "vsicons.dontShowNewVersionMessage": true
+}
